@@ -1,2 +1,2 @@
 # myBC_output
-my FinTech Boot Camp assignment
+Contains all my FinTech Boot Camp assignments, separated in unit directories
